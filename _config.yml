@@ -1,5 +1,5 @@
-title: CSIT323: Resale HDB Flat Prices Prediction
-description: This project is part of our group project for CSCI323 - Modern Artificial Intelligence module at the SIM-UOW. The project focuses on applying artificial intelligence, specifically machine learning, to predict the resale prices of HDB flats in Singapore. Using a dataset of over 200,000 resale transactions recorded between January 2017 and May 2025, we explore how various factors—such as flat type, location, floor area, and lease details—affect pricing patterns.
+title: CSIT323 - Resale HDB Flat Prices Prediction
+description: This project is part of our group project for CSCI323 - Modern AI. The project focuses on applying artificial intelligence, specifically machine learning, to predict the resale prices of HDB flats in Singapore. Using a dataset of over 200,000 resale transactions recorded between January 2017 and May 2025, we explore how various factors—such as flat type, location, floor area, and lease details—affect pricing patterns.
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme
